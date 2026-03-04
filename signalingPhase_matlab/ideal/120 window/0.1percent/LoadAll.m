@@ -1,0 +1,7 @@
+load('Fast100.mat')
+load('Fast200.mat')
+load('Fast300.mat')
+load('Fast400.mat')
+load('Fast500.mat')
+load('Fast600.mat')
+load('Fast700.mat')
